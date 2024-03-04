@@ -153,7 +153,7 @@ class Task-2 {
         System.out.print("Enter Your Choice: ");
         int choice = takeIntegerInput(2);
         if (choice == 1) {
-           nummy bankAccount = new nummy();
+           Nummy bankAccount = new Nummy();
             bankAccount.register();
             while (true) {
                 System.out.println("\n1. Login \n2. Exit");
