@@ -125,7 +125,7 @@ class Nummy {
     }
 }
 
-class Task-2 {
+class Task-3 {
     public static int takeIntegerInput(int limit) {
         int input = 0;
         boolean flag = false;
